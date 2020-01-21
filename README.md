@@ -15,7 +15,7 @@ $ git clone https://github.com/DavidBrionesFF/Kick-Nigth.git
 
 Aqui un tutorial rapido de como se utiliza de manera intuitiva:
 
-[![N|Solid](https://im3.ezgif.com/tmp/ezgif-3-23941b816aea.gif)]
+[![N|Solid](https://community.bytepl.com/wp-content/uploads/2020/01/ezgif-3-31ec2f81c1ec.gif)]
 
 Licencia
 ----
